@@ -21,5 +21,7 @@ Vídeo/Execução 🎥: https://youtu.be/sTSvRrLYJLo
 
 Rode o código sem precisar baixar em sua máquina 💻: https://colab.research.google.com/drive/1mZF6j1rnFb3JMaayzKSmOXEOm1GaMIx7?usp=sharing  
 
-
+<h2 align="center"><strong>IA X Random</strong></h2>
+Como podemos ver no gif abaixo a IA que são as peças pretas vence facilmente as brancas aletórias com alguns movimentos.<br>
+<img align="center" src="chess.gif">
 </div>
