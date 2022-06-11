@@ -1,20 +1,28 @@
 <div align="center">
-<h1 align="center"<strong> Bot para Discord de Classificação de Imagens com Deep Learning </strong></h1>
+<h1 align="center"<strong>  </strong></h1>
 
 <h2 align="center"><strong>Descrição do projeto / Tecnologias Usadas</strong></h2>
 
-<p><strong>Projeto Integrador criado para o curso de Ciência da Computação  </strong>
+<p><strong>Projeto criado para o curso de Ciência da Computação - IA </strong>
 
 
-Cujo objetivo foi desenvolver um modelo de treinamento para classificar imagens de datasets através de um bot no aplicativo Discord..<br>
-Foi utilizada a biblioteca ter tensorflow e API Keras da linguagem de programação Python
+O objetivo deste EP foi desenvolvimento de uma engine que joga xadrez. Esta engine usa o algoritmo Minimax e Poda Alfabeta para o jogador que é o agente e joga contra um adversário humano ou um robô com escolhas de movimentos aleatórios.<br>
+  
+Usamos o Python como linguagem com o auxilio da lib "chess" https://python-chess.readthedocs.io/en/latest/
 
-<h2 align="center"><strong>Desenvolvido por:</strong></h2>
-  Mayara Rosa & Stella Rufino
+<h2 align="center"><strong>Feito por:</strong></h2>
+  Daniel Bortoleti Melo, Stella Rufino, Mayara Rosa
 
-<h2 align="center"><strong>Links úteis :</strong></h2>
+<h2 align="center"><strong>Links :</strong></h2>
 
-Teoria📝: 
+Teoria/Explicação 📝: https://www.canva.com/design/DAE6QvYEZq4/oFeBFzXmC4dAIbWlTwXRjQ/view?utm_content=DAE6QvYEZq4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
-Vídeo/🎥: 
+Vídeo/Execução 🎥: https://youtu.be/sTSvRrLYJLo
+
+Rode o código sem precisar baixar em sua máquina 💻: https://colab.research.google.com/drive/1mZF6j1rnFb3JMaayzKSmOXEOm1GaMIx7?usp=sharing  
+
+<h2 align="center"><strong>IA X Random</strong></h2>
+Como podemos ver no gif abaixo a IA que são as peças pretas vence facilmente as brancas aleatórias com alguns movimentos.<br>
+<img align="center" src="chess.gif">
+</div>
 
