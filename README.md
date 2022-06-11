@@ -1,4 +1,6 @@
 <div align="center">
+<h1 align="center"<strong> ♟ EP1 - Chess ♟ </strong></h1>
+<div align="center">
 <h1 align="center"<strong>  </strong></h1>
 
 <h2 align="center"><strong>Descrição do projeto / Tecnologias Usadas</strong></h2>
